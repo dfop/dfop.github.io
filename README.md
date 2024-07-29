@@ -1,7 +1,7 @@
 # User Experience Researcher
 
-###Education
+### Education
 PhD
 
 
-###Work Experience
+### Work Experience
