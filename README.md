@@ -1,26 +1,11 @@
-# Danielly de Paula
+<h1 align="center">Hi 👋, I'm Danielly</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-**Senior User Researcher**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/danielly-de-paula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielly-de-paula" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
----
-
-![Danielly de Paula]([dfop.github.io/Danielly de Paula.jpg](https://github.com/dfop/dfop.github.io/blob/main/Danielly%20de%20Paula.jpg))
-
-Hi, I am a senior user researcher with 10+ years executing and leading mixed method user experience research to inform product design, mainly for software organizations.
-
----
-
-## Contact
-
-- **Email**: [dfo.paula@gnail.com](mailto:dfo.paula@gnail.com)
-- **Google Scholar**: [Full Publication List]([https://scholar.google.com](https://scholar.google.com/citations?user=TeRTojsAAAAJ&hl=en&oi=ao))
-
-## Navigation
-
-- [User Research Projects](#)
-- [Publications](#)
-- [Teaching](#)
-- [About](#)
-- [Contact](#)
