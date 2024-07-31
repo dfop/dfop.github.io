@@ -6,7 +6,7 @@
 
 ---
 
-![Danielly de Paula](path_to_your_image/Screenshot 2024-07-31 at 11.08.13.png)
+![Danielly de Paula](dfop.github.io/Danielly de Paula.jpg)
 
 Hi, I am a senior user researcher with 10+ years executing and leading mixed method user experience research to inform product design, mainly for software organizations.
 
